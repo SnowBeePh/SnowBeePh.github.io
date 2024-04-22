@@ -1,0 +1,237 @@
+country,continent,years
+Aruba,America,74.0
+Afghanistan,Asia,61.2
+Angola,Africa,60.7
+Anguilla,America,74.3
+Albania,Europe,75.8
+Andorra,Europe,81.6
+UAE,Asia,79.0
+Argentina,America,74.6
+Armenia,Asia,71.2
+American Samoa,Oceania,70.1
+Antigua and Barbuda,America,76.7
+Australia,Oceania,81.9
+Austria,Europe,80.3
+Azerbaijan,Asia,70.7
+Burundi,Africa,60.5
+Belgium,Europe,80.4
+Benin,Africa,58.8
+Burkina Faso,Africa,58.7
+Bangladesh,Asia,71.8
+Bulgaria,Europe,69.5
+Bahrain,Asia,79.7
+Bahamas,America,70.9
+Bosnia and Herzegovina,Europe,74.1
+Belarus,Europe,69.8
+Belize,America,71.7
+Bermuda,America,78.7
+Bolivia,America,66.2
+Brazil,America,73.1
+Barbados,America,75.8
+Brunei,Asia,72.5
+Bhutan,Asia,70.8
+Botswana,Africa,63.5
+Central African Republic,Africa,53.4
+Canada,America,81.1
+Switzerland,Europe,82.6
+Chile,America,78.8
+China,Asia,76.2
+Cote d'Ivoire,Africa,58.9
+Cameroon,Africa,60.4
+"Congo, Dem. Rep.",Africa,58.5
+"Congo, Rep.",Africa,61.7
+Cook Is,Oceania,71.6
+Colombia,America,74.6
+Comoros,Africa,62.9
+Cape Verde,Africa,72.6
+Costa Rica,America,77.9
+Cuba,America,76.0
+Cayman Islands,America,73.4
+Cyprus,Europe,80.3
+Czech Republic,Europe,77.0
+Germany,Europe,79.9
+Djibouti,Africa,61.2
+Dominica,America,70.9
+Denmark,Europe,80.1
+Dominican Republic,America,71.2
+Algeria,Africa,76.1
+Ecuador,America,75.5
+Egypt,Africa,68.5
+Eritrea,Africa,65.2
+Western Sahara,Africa,69.5
+Spain,Europe,81.4
+Estonia,Europe,75.2
+Ethiopia,Africa,63.7
+Finland,Europe,80.0
+Fiji,Oceania,66.6
+Falkland Is (Malvinas),America,77.6
+France,Europe,80.5
+Faeroe Islands,Europe,77.5
+"Micronesia, Fed. Sts.",Oceania,67.7
+Gabon,Africa,63.9
+Guernsey,Europe,81.3
+Isle of Man,Europe,79.5
+UK,Europe,80.6
+Georgia,Asia,67.6
+Ghana,Africa,62.4
+Gibraltar,Europe,81.1
+Guinea,Africa,58.2
+Guadeloupe,America,79.7
+Gambia,Africa,62.6
+Guinea-Bissau,Africa,58.4
+Equatorial Guinea,Africa,60.2
+Greece,Europe,79.6
+Grenada,America,72.7
+Greenland,America,70.2
+Guatemala,America,67.3
+French Guiana,America,74.9
+Guam,Oceania,75.1
+Guyana,America,66.4
+"Hong Kong, China",Asia,83.0
+Honduras,America,71.0
+Holy See,Europe,82.2
+Croatia,Europe,76.6
+Haiti,America,61.8
+Hungary,Europe,73.8
+Indonesia,Asia,69.0
+India,Asia,70.5
+Ireland,Europe,81.2
+Iran,Asia,74.3
+Iraq,Asia,69.9
+Iceland,Europe,81.5
+Israel,Asia,81.6
+Italy,Europe,82.1
+Jamaica,America,70.1
+Jersey,Europe,79.2
+Jordan,Asia,72.9
+Japan,Asia,81.9
+Kazakhstan,Asia,66.6
+Kenya,Africa,61.0
+Kyrgyz Republic,Asia,66.9
+Cambodia,Asia,69.1
+Kiribati,Oceania,65.9
+St. Kitts and Nevis,America,68.8
+South Korea,Asia,80.8
+Kosovo,Europe,77.4
+Kuwait,Asia,79.1
+Lao,Asia,67.2
+Lebanon,Asia,74.0
+Liberia,Africa,60.7
+Libya,Africa,70.2
+St. Lucia,America,70.7
+Liechtenstein,Europe,83.2
+Sri Lanka,Asia,73.1
+Lesotho,Africa,52.1
+Lithuania,Europe,72.3
+Luxembourg,Europe,80.6
+Latvia,Europe,71.7
+"Macao, China",Asia,82.9
+St. Martin (French part),America,77.7
+Morocco,America,73.1
+Monaco,Europe,85.2
+Moldova,Europe,65.1
+Madagascar,Africa,64.1
+Maldives,Asia,80.3
+Mexico,America,71.8
+Marshall Islands,Oceania,63.6
+North Macedonia,Europe,73.1
+Mali,Africa,58.7
+Malta,Europe,81.8
+Myanmar,Asia,64.4
+Montenegro,Europe,74.6
+Mongolia,Asia,68.4
+Northern Mariana Islands,Oceania,76.0
+Mozambique,Africa,59.5
+Mauritania,Africa,63.6
+Montserrat,America,74.7
+Martinique,America,80.4
+Mauritius,Africa,72.8
+Malawi,Africa,60.2
+Malaysia,Asia,74.1
+Mayotte,Africa,74.7
+Namibia,Africa,56.0
+New Caledonia,Oceania,77.8
+Niger,Africa,61.7
+Nigeria,Africa,53.5
+Nicaragua,America,71.8
+Niue,Oceania,69.6
+Netherlands,Europe,81.1
+Curaçao,America,72.9
+Norway,Europe,81.9
+Nepal,Asia,68.9
+Nauru,Oceania,60.7
+New Zealand,Oceania,81.4
+Oman,Asia,77.4
+Pakistan,Asia,65.1
+Panama,America,75.6
+Peru,America,74.7
+Philippines,Asia,70.3
+Palau,Oceania,62.4
+Papua New Guinea,Oceania,63.5
+Poland,Europe,74.9
+Puerto Rico,America,75.8
+North Korea,Asia,71.1
+Portugal,Europe,79.5
+Paraguay,Asia,71.4
+Palestine,Asia,71.9
+French Polynesia,Oceania,81.5
+Qatar,Asia,80.8
+Reunion,Africa,80.0
+Romania,Europe,71.7
+Russia,Europe,69.5
+Rwanda,Africa,65.0
+Saudi Arabia,Asia,76.9
+Sudan,Africa,63.6
+Senegal,Africa,66.7
+Singapore,Asia,82.1
+St. Helena,Africa,74.6
+Solomon Islands,Oceania,69.4
+Sierra Leone,Africa,59.5
+El Salvador,America,68.9
+San Marino,Europe,82.2
+Somalia,Africa,55.3
+St.-Pierre-et-Miquelon,America,74.2
+Serbia,Europe,72.3
+South Sudan,Africa,55.0
+St. Barthélemy,America,77.8
+Sao Tome and Principe,Africa,66.1
+Suriname,America,69.4
+Slovak Republic,Europe,75.0
+Slovenia,Europe,79.9
+Sweden,Europe,82.1
+Eswatini,Africa,54.0
+Sint Maarten (Dutch part),America,73.1
+Seychelles,Africa,71.3
+Syria,Asia,68.8
+Turks and Caicos Islands,America,73.3
+Chad,Africa,52.0
+Togo,Africa,61.1
+Thailand,Asia,75.8
+Tajikistan,Asia,69.3
+Tokelau,Oceania,74.5
+Turkmenistan,Asia,66.0
+Timor-Leste,Asia,67.7
+Tonga,Oceania,68.7
+Trinidad and Tobago,America,71.5
+Tunisia,Africa,73.9
+Turkey,Asia,75.6
+Tuvalu,Oceania,61.3
+Taiwan,Asia,78.4
+Tanzania,Africa,65.5
+Uganda,Africa,61.7
+Ukraine,Europe,67.7
+Uruguay,America,74.3
+USA,America,77.3
+Uzbekistan,Asia,69.1
+St. Vincent and the Grenadines,America,67.9
+Venezuela,America,68.8
+British Virgin Islands,America,73.8
+Virgin Islands (U.S.),America,70.7
+Vietnam,Asia,70.1
+Vanuatu,Oceania,68.5
+Wallis et Futuna,Oceania,79.1
+Samoa,Oceania,70.3
+Yemen,Asia,61.2
+South Africa,Africa,59.9
+Zambia,Africa,60.2
+Zimbabwe,Africa,59.2
